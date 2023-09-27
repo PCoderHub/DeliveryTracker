@@ -1,0 +1,17 @@
+.assign_container {
+    margin: 10px 35%;
+}
+
+.assign_heading {
+    text-align: center;
+}
+
+.assign_form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_control {
+    margin: 10px 30px;
+}
